@@ -1,2 +1,3 @@
-# BinaryTreeTraversal
-Binary Tree Traversal
+# Binary Tree Traversal
+
+![BinaryTree](Tree.png)
