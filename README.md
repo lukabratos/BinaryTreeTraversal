@@ -4,3 +4,6 @@
 
 ## Counting Sort
 - [Swift](https://github.com/lukabratos/algorithms/blob/master/counting_sort.swift)
+
+## Binary Search Tree to Min Heap
+- [Swift](https://github.com/lukabratos/algorithms/blob/master/bst_to_min_heap.swift)
